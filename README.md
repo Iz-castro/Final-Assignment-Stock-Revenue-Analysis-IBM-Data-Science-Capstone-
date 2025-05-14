@@ -28,17 +28,6 @@ The notebook `Final_Assignment_Iz-castro.ipynb` includes the following sections:
 7. **Tesla Dashboard – Price vs Revenue (until June 2021)**
 8. **GameStop Dashboard – Price vs Revenue (until June 2021)**
 
----
-
-## 📊 Graph Examples
-
-### Tesla
-![Tesla Graph](path/to/tesla_screenshot.png)
-
-### GameStop
-![GameStop Graph](path/to/gme_screenshot.png)
-
-*Replace the paths above with actual image file names or hosted links.*
 
 ---
 
